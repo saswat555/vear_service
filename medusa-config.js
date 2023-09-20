@@ -64,13 +64,13 @@ const plugins = [
             searchableAttributes: [
               "title", 
               "description",
-              "variant_sku",
+              "tags",
             ],
             displayedAttributes: [
               "title", 
               "description", 
-              "variant_sku", 
-              "thumbnail", 
+              "thumbnail",
+              "tags ",
               "handle",
             ],
           },

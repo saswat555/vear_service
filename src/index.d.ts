@@ -1,5 +1,9 @@
+// Add column complexion, height, weight to Customer
+
 export declare module "@medusajs/medusa/dist/models/customer" {
-    declare interface Customers {
-      complexion: string;
-    }
+  interface Customers {
+    complexion: string  | null  
+    height: number | null
+    weight: number | null
   }
+}
