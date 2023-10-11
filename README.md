@@ -17,7 +17,8 @@
 </h4>
 
 <p align="center">
-  Building blocks for digital commerce
+  VEAR AI Under Devlopment
+  
 </p>
 <p align="center">
   <a href="https://github.com/medusajs/medusa/blob/master/CONTRIBUTING.md">
