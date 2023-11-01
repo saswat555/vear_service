@@ -8,7 +8,7 @@
   </a>
 </p>
 <h1 align="center">
-  Medusa
+  VEAR.AI
 </h1>
 
 <h4 align="center">
